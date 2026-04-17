@@ -1,0 +1,2 @@
+# dashboard
+kebab-os dashboard
